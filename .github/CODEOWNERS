@@ -2,7 +2,7 @@
 * @shomakobayashi
 
 # バックエンドコードのオーナー（チーム）
-apps/backend/ @codeowners-test/backend-team
+apps/backend/ @test-user-backend
 
 # フロントエンドコードのオーナー
 apps/frontend/ @codeowners-test/frontend-team
